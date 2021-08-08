@@ -1,0 +1,42 @@
+Easy: Animals:-
+	Bats 
+	Wolf 
+	Loin 
+	Deer 
+	horse
+
+Medium: Vegtables:-
+	carrot
+	broccoli 
+	eggplant
+	onion
+	garlic
+ 
+
+Hard: Tech
+	computer
+	laptob
+	Microsoft
+	Processor
+	Motherboard
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
